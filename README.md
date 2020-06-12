@@ -1,2 +1,2 @@
-# practica-4-js
+# practica-3-js
 practica de while 
