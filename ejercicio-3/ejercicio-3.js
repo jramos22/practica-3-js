@@ -1,6 +1,6 @@
-i=1;
+let i=1;
 
-figura ='*';
+let figura ='*';
 while (i<=7) {
     while (i<=7) {
        console.log(figura);
